@@ -1,15 +1,7 @@
-<<<<<<< HEAD
+
 # lpthw
-<<<<<<< HEAD
-# today is 20180921, this is a PUSH test.
-# this is local repository test ~~~~~~
-=======
-# today is 2018.09.21, this is a pull test.
->>>>>>> 4b7a5d00e51c059930e16e13f68559f3137a9ba7
 
-# today is 2018.09.25, this is a remote puuuuush test.
-
-# ************important*************
+# ************Git plus with Atom -----important*************
 # ATOM use git plus packages
 # if use git+ add+commit+push, no response, try below:
 # Shortcut keys "Ctrl + Shift + P"
@@ -18,12 +10,20 @@
 # refer to youtube: Atom And Git Plus Remote Repo
 # link: https://www.youtube.com/watch?v=JCCRN6ftJZQ
 
-
 # atom git repo (local repository)
 # refer to youtube: atom git repo
 # link: https://www.youtube.com/watch?v=7Id1_VfbEKo
+#----------------------------------------------------------------
 
-#------------------------being pulled down----------------------
->>>>>>> d24a6d876ed3850fc689e444bd678b67c7fe3e4d
+#------------Git bash command--------------
+# git pull origin master
+# /// git pull origin master --allow-unrelated-histories
 
-# push up
+# git add "XXXXX" or "--all"
+# git commit -m "XXXXXXX"
+# git push origin master  ---------(first time "git push -u origin master")
+
+# error: src refspec master does not match any.
+# error: failed to push some refs to "xxxxxxx"
+# git add .
+# git commit -m "write your meaaage"

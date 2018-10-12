@@ -1,9 +1,4 @@
-<<<<<<< HEAD
+
 this is line 1
 this is line 2
 this is line 3
-=======
-this is line 1
-this is line 2
-this is line 3
->>>>>>> d24a6d876ed3850fc689e444bd678b67c7fe3e4d
