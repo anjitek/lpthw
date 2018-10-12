@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # lpthw
 <<<<<<< HEAD
 # today is 20180921, this is a PUSH test.
@@ -21,3 +22,8 @@
 # atom git repo (local repository)
 # refer to youtube: atom git repo
 # link: https://www.youtube.com/watch?v=7Id1_VfbEKo
+
+#------------------------being pulled down----------------------
+>>>>>>> d24a6d876ed3850fc689e444bd678b67c7fe3e4d
+
+# push up

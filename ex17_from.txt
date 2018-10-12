@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is a from_file
+=======
+this is a from_file
+>>>>>>> d24a6d876ed3850fc689e444bd678b67c7fe3e4d
