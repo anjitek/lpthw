@@ -52,7 +52,7 @@ def convert(sinppet, phrase):
             result = result.replace("%%%", word, 1)
 
         # fake other names
-        for word in other_names：
+        for word in other_names:
             result =result.replace("***", word, 1)
 
         # fake parameter lists
