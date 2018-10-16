@@ -1,4 +1,8 @@
 # this is ex41, it's a study drill.
+# Windows system
+# run it in power shell, remember to put sys argv at the end
+# python ex41.py english
+
 import random
 from urllib.request import urlopen
 import sys
