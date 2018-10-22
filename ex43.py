@@ -56,7 +56,7 @@ class CentralCorridor(Scene):
             Armory when a Gothon jumps out, red scaly skin, dark grimy
             teeth, and evil clown costume flowing around his hate
             filled body. He's blocking the door to the Armory and
-            15 about to pull a weapon to blast you.
+            about to pull a weapon to blast you.
             """))
 
         action = input("> ")
