@@ -1,3 +1,0 @@
-this is a copycat.
-try to load another file.
-well, it is working.

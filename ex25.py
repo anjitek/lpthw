@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b461db8a2c2a68dba0af42de3df76fd687069fa5
 def break_words(stuff):
     """This function will break up words for us"""
     words = stuff.split(' ')

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b461db8a2c2a68dba0af42de3df76fd687069fa5
 import sys
 script, input_encoding, error = sys.argv
 #need three arguments when running python ex23.py

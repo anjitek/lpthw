@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b461db8a2c2a68dba0af42de3df76fd687069fa5
 print("Let's practice everything.")
 print('You\'d need to know \'bout excapes with \\ that do:') #'\'discard symbols
 print('\n newlines and \t tabs.') #'\n' means new lines, '\t' means tabs

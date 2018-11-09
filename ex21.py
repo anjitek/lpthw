@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b461db8a2c2a68dba0af42de3df76fd687069fa5
 def add(a, b):
     print(f"Adding {a} + {b}")
     return a + b

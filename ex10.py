@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> b461db8a2c2a68dba0af42de3df76fd687069fa5
 tabby_cat = "\t i'm tabbed in."
 persian_cat = "i'm split\non a line."
 backslash_cat = "i'm \\ a \\ cat."
